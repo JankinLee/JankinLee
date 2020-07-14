@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **JankinLee/JankinLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Yep, Here's my [blog](https://www.laic.club/).
+![detail](https://cdn.jsdelivr.net/gh/JankinLee/PostsCDN@1.4/ACGImages/105.png)
