@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Yep, Here's my [blog](https://www.laic.club/).
-![detail](https://cdn.jsdelivr.net/gh/JankinLee/PostsCDN@1.4/ACGImages/105.png)
+
+![detail](https://cdn.jsdelivr.net/gh/JankinLee/PostsCDN@1.4/ACGImages/19.png)
